@@ -55,7 +55,7 @@
 - Complete the **Docker** form
   - Options: *Single Container* (default)
   - Image Source: *Azure Container Registry*
-  - Registry: *issa16**
+  - Registry: *issa16*
   - Image: *flask-docker-demo*
   - Tag: *latest*
 - Click **Review + create**
